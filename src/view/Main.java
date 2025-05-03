@@ -10,6 +10,8 @@ public class Main {
 
         int n=0;
         System.out.println("Bem vindo! Menu:");
+
+        //loop
         while(n!=4) {
             System.out.println("\n1 - Sacar\n2 - Depositar\n3 - Consultar Saldo\n4 - Sair");
             System.out.print("Digite o número: ");
