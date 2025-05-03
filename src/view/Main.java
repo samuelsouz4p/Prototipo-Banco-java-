@@ -7,7 +7,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         ContaCorrente conta1 = new ContaCorrente(123321, "Joao da Silva");
-        ContaCorrente conta2 = new ContaCorrente(400289,"Maria Souza");
 
         int n=0;
         System.out.println("Bem vindo! Menu:");
